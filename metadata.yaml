@@ -1,0 +1,33 @@
+_repo: Wild-west_68084
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Bertrand W.
+    aliases:
+    - Sinclair, Bill
+    - Sinclair, Bertrand William
+    - Sinclair, William Brown
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '3891'
+    url: http://www.gutenberg.org/2009/agents/3891
+    wikipedia: https://en.wikipedia.org/wiki/Bertrand_William_Sinclair
+description: ''
+gutenberg_issued: '2022-05-15'
+identifiers:
+  gutenberg: '68084'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc1.312525
+pgterms:marc905: 20220301120613sinclair
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United States :Little, Brown and Company,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wild west
+url: http://www.gutenberg.org/ebooks/68084

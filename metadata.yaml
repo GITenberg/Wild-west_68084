@@ -1,5 +1,8 @@
 _repo: Wild-west_68084
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68084-h/images/cover.jpg
 creator:
   author:
     agent_name: Sinclair, Bertrand W.
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3891
     wikipedia: https://en.wikipedia.org/wiki/Bertrand_William_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68084#Wild-west
 gutenberg_issued: '2022-05-15'
 identifiers:
   gutenberg: '68084'
